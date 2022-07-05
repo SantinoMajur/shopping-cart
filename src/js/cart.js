@@ -91,7 +91,7 @@ const generateCartItem = () => {
         shoppingCart.innerHTML = ``;
         label.innerHTML = `
         <h2>Cart Empty</h2>
-        <a href="/index.html">
+        <a href=".../index.html">
           <button class="bg-gray-800 text-gray-100 rounded p-2 mt-3">
             Continue Shopping
           </button>
